@@ -7,6 +7,7 @@ Opgaven lød på at lave et system til en mekaniker med følgende systembeskrive
 - Oprettelse af brugere
 - Tidsbestilling. 1 time pr. bestilling (7 – 15)
 - Se og slette tidsbestillinger
+
 Biler skal registreres med nummerpladen og gemmes i en almindelig text fil med samme id.
 Tidsbestillingerne gemmes ligeledes i en fil, hvor dato og tidspunkt indgår i filnavnet. Der må ikke kunne
 laves service/tidsbestilling på et køretøj som ikke er registreret i systemet og det må ikke være mulig at
