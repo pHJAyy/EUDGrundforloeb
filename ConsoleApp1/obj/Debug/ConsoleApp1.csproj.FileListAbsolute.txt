@@ -1,0 +1,12 @@
+C:\Users\Peter\Google Drive\EUD Grundforløb\Eksamen\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\Peter\Google Drive\EUD Grundforløb\Eksamen\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\Peter\Google Drive\EUD Grundforløb\Eksamen\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\Peter\Google Drive\EUD Grundforløb\Eksamen\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csprojResolveAssemblyReference.cache
+C:\Users\Peter\Google Drive\EUD Grundforløb\Eksamen\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\Peter\Google Drive\EUD Grundforløb\Eksamen\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\Users\Peter\Documents\Visual Studio 2017\Projects\GrundforløbsEksamen\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\Peter\Documents\Visual Studio 2017\Projects\GrundforløbsEksamen\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\Peter\Documents\Visual Studio 2017\Projects\GrundforløbsEksamen\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\Peter\Documents\Visual Studio 2017\Projects\GrundforløbsEksamen\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csprojResolveAssemblyReference.cache
+C:\Users\Peter\Documents\Visual Studio 2017\Projects\GrundforløbsEksamen\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\Peter\Documents\Visual Studio 2017\Projects\GrundforløbsEksamen\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
